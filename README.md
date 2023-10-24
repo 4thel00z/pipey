@@ -17,7 +17,7 @@ Imagine crafting non-blocking UIs using bash and Go binaries, where the data is 
 To install `pipey`, use the following `go install` command:
 
 ```bash
-go install github.com/4thel00z/pipey@latest
+go install github.com/4thel00z/pipey/...@latest
 ```
 
 Ensure your Go bin directory (usually $HOME/go/bin) is in your PATH to access the pipey command.
